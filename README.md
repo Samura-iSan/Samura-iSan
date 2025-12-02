@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samura-iSan
 - 👀 I’m interested in find a job to start a programming career
-- 🌱 I’m currently learning python php c++ 
+- 🌱 I’m currently learning python c++ 
 - 💞️ I’m looking to collaborate on someone project for experience
 - 📫 How to reach me 
 
